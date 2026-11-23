@@ -1,126 +1,118 @@
-<div align="center">
+<!-- Phạm Quốc Huy • GitHub Profile • Premium Dark Tech • V4 -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Phạm Quốc Huy — Software Developer and AI Enthusiast; Premium Dark Tech profile banner" width="100%" />
+</p>
 
-# 👋 HI, I'M PHẠM QUỐC HUY
+<p align="center">
+  <strong>Information Technology Student · Nam Can Tho University</strong><br />
+  Full-stack development · Practical AI · Computer vision
+</p>
 
-### 💻 Software Developer | 🤖 AI Enthusiast
-
-**Information Technology Student @ Nam Can Tho University**
-
-*Building Intelligent Applications & Modern Software Solutions*
-
-![Profile Views](https://komarev.com/ghpvc/?username=PhamQuocHuy2k5&color=00D9FF&style=for-the-badge)
-
----
-
-## 🚀 ABOUT ME
-
-🎓 Information Technology Student — Nam Can Tho University
-
-💻 Passionate about Software Engineering & Full-Stack Development
-
-🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision
-
-🌱 Currently learning modern software architecture and AI technologies
-
-📍 Can Tho, Vietnam
+<p align="center">
+  <a href="https://github.com/PhamQuocHuy2k5">GitHub Profile</a> ·
+  <a href="https://github.com/PhamQuocHuy2k5/Portfolio">Portfolio Source</a> ·
+  <a href="https://github.com/PhamQuocHuy2k5?tab=repositories">Repositories</a>
+</p>
 
 ---
 
-## 🛠️ TECH STACK
+## About me
 
-### Programming Languages
+I'm **Phạm Quốc Huy**, an Information Technology student at **Nam Can Tho University**, interested in building dependable web applications and applying AI to real-world problems.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+My current work spans **React-based frontends, ASP.NET Core APIs, SQL Server**, and **Python services**. I care about clear user experiences, maintainable architecture, thoughtful testing, and communicating what a project *actually does* rather than overstating its readiness.
 
-### Frontend
+> **Build with purpose. Validate with evidence. Keep learning.**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+## Technical toolkit
 
-### Backend & Database
+These are technologies I've used in coursework, experiments, or ongoing development — **not a claim of mastery**.
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| Area | Technologies |
+| --- | --- |
+| **Languages** | `C#` · `Python` · `JavaScript` · `TypeScript` · `Java` · `SQL` |
+| **Frontend** | `React` · `Vite` · `HTML5` · `CSS3` · `Tailwind CSS` |
+| **Backend** | `ASP.NET Core` · `Entity Framework Core` · `FastAPI` |
+| **Data** | `SQL Server` · `MongoDB` *(project exploration)* |
+| **AI & Computer Vision** | `YOLO` · `OpenCV` · `Ollama` · `local LLM experimentation` |
+| **Engineering & QA** | `Git` · `GitHub` · `VS Code` · `PowerShell` · `Playwright` · `Vitest` |
 
-### AI & Development Tools
+## Selected projects
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+### SMART TECH STORE <sub>· Public source · In development</sub>
 
----
+**AI-assisted technology e-commerce and inventory intelligence.** A coursework project integrating a React storefront with an ASP.NET Core API, SQL Server, and Python services for forecasting and related analysis. Some planned AI capabilities and end-to-end integrations remain in progress, as documented in the repository.
 
-## 🌟 FEATURED PROJECTS
+**Stack:** `React` `TypeScript` `ASP.NET Core` `SQL Server` `FastAPI`  
+**Explore:** [Repository & engineering status](https://github.com/PhamQuocHuy2k5/smart-tech-store)
 
-### 🛒 SMART TECH STORE
-AI-Powered Technology E-Commerce Platform
+### HEALORA AI <sub>· In development · No public project repository verified</sub>
 
-**Tech:** React, ASP.NET Core, SQL Server, Python
+**Local-first health information assistant.** Exploring Vietnamese conversational interfaces, Ollama-hosted models, retrieval-based responses, and safety-oriented AI interactions. An educational prototype, **not a medical professional or diagnostic service**.
 
-**Focus:** AI Recommendations, Smart Shopping, Inventory Intelligence
+**Focus:** `Ollama` `Python` `RAG research` `AI safety`  
+**Status:** Project work in progress; no public demo claimed.
 
-**Status:** In Development
+### YOLO TRAFFIC MANAGER <sub>· Academic project · Public repository not verified</sub>
 
-### 🏥 HEALORA AI
-AI-Powered Health Information Assistant
+**Computer-vision traffic analysis.** Developing vehicle and road-user detection, object tracking, and license-plate processing using Python-based image and video workflows. Accuracy and supported scenarios depend on evaluated models and input quality.
 
-**Tech:** Python, Ollama, MongoDB, Local LLM
+**Focus:** `Python` `YOLO` `OpenCV` `Object tracking` `OCR`  
+**Status:** Academic project; no verified public demo linked.
 
-**Focus:** Conversational AI, RAG, AI Safety
+### DTDM LEAFLET INTERACTIVE MAP <sub>· Public source</sub>
 
-**Status:** In Development
+**Interactive web mapping coursework.** Browser-based maps using Leaflet, with Esri/OpenStreetMap basemap options and map interaction features described in its source repository.
 
-### 🚦 YOLO TRAFFIC MANAGER
-Intelligent Traffic Analysis System
+**Stack:** `HTML` `CSS` `JavaScript` `Leaflet`  
+**Explore:** [Source repository](https://github.com/PhamQuocHuy2k5/DTDM-Leaflet-Interactive-Map)
 
-**Tech:** Python, YOLO, OpenCV
+### PERSONAL PORTFOLIO <sub>· Public source</sub>
 
-**Focus:** Object Detection, Vehicle Tracking, License Plate Recognition
+**Personal project showcase.** A public repository containing frontend portfolio materials. A verified production deployment is not claimed here.
 
-### 🗺️ DTDM LEAFLET INTERACTIVE MAP
-Interactive Web Mapping Application
+**Stack:** `HTML` `CSS` `JavaScript`  
+**Explore:** [Portfolio repository](https://github.com/PhamQuocHuy2k5/Portfolio)
 
-**Tech:** HTML, CSS, JavaScript, Leaflet.js
+## Recognition & involvement
 
-[![Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PhamQuocHuy2k5/DTDM-Leaflet-Interactive-Map)
+- **Second Prize — MED AI 2026** *(award reported by the profile owner).* 
+- University coursework focused on software development and applied AI.
+- Participation in student activities and collaborative project work.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Website-00D9FF?style=for-the-badge)](https://phamquochuy2k5.github.io/DTDM-Leaflet-Interactive-Map/)
+## Current focus
 
----
+`Full-stack engineering` · `Software architecture` · `Applied AI` · `Computer vision` · `Local LLMs` · `Testing & documentation`
 
-## 🏆 ACHIEVEMENTS
+I'm especially interested in building end-to-end applications where the interface, API, data model, and AI components work together reliably.
 
-🥈 **Second Prize — MED AI 2026**
+## GitHub activity
 
-🎓 Information Technology Student — Nam Can Tho University
+GitHub provides up-to-date activity and language information directly on the account pages:
 
-💡 AI Innovation & Applied Software Development
+- [Contribution activity and repositories](https://github.com/PhamQuocHuy2k5)
+- [Public repositories and their language breakdowns](https://github.com/PhamQuocHuy2k5?tab=repositories)
 
----
+<details>
+<summary><strong>Optional live statistics — provided by third-party services</strong></summary>
 
-## 📊 GITHUB STATISTICS
+These cards are **external** and may become unavailable independently of this profile. The native GitHub activity links above remain accessible even when a card does not render.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamQuocHuy2k5&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img alt="GitHub activity statistics from a third-party service" src="https://github-readme-stats.vercel.app/api?username=PhamQuocHuy2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" height="155" />
+  <img alt="Language distribution from public GitHub repositories (not a skills ranking)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuocHuy2k5&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" height="155" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuocHuy2k5&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center"><img alt="Profile view counter provided by a third-party service" src="https://komarev.com/ghpvc/?username=PhamQuocHuy2k5&amp;color=00D9FF&amp;style=flat-square" /></p>
 
----
+</details>
 
-## 🤝 CONNECT WITH ME
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-PhamQuocHuy2k5-181717?style=for-the-badge&logo=github)](https://github.com/PhamQuocHuy2k5)
+- **GitHub:** [@PhamQuocHuy2k5](https://github.com/PhamQuocHuy2k5)
+- **Projects:** [View public repositories](https://github.com/PhamQuocHuy2k5?tab=repositories)
+- **Portfolio source:** [Repository](https://github.com/PhamQuocHuy2k5/Portfolio)
 
----
-
-### ⚡ LEARN • BUILD • INNOVATE
-
-</div>
+<p align="center">
+  <sub>LEARN · BUILD · VERIFY · IMPROVE</sub>
+</p>

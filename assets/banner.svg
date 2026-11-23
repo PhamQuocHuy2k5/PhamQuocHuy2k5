@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+<title id="title">Phạm Quốc Huy — Software Developer and AI Enthusiast</title>
+<desc id="desc">Premium Dark Tech banner with cyan and violet interface-inspired geometric accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D1117"/><stop offset=".66" stop-color="#101527"/><stop offset="1" stop-color="#151A2D"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8BA7C2" stroke-opacity=".075"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="440" fill="url(#bg)"/>
+<rect width="1600" height="440" fill="url(#grid)"/>
+<circle cx="1395" cy="160" r="340" fill="url(#halo)"/>
+<path d="M0 10H1600" stroke="url(#accent)" stroke-width="7"/>
+<path d="M78 78v285" stroke="#00D9FF" stroke-width="5" stroke-linecap="round"/>
+<path d="M92 88h32 M92 352h32" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round"/>
+<text x="139" y="114" fill="#00D9FF" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="5">PQH  /  DEVELOPMENT LAB</text>
+<text x="135" y="212" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" font-size="70">PHẠM QUỐC HUY</text>
+<rect x="138" y="234" width="395" height="5" rx="2" fill="url(#accent)"/>
+<text x="137" y="291" fill="#F8FAFC" font-family="DejaVu Sans, Arial, sans-serif" font-weight="500" font-size="32">Software Developer <tspan fill="#00D9FF">×</tspan> AI Enthusiast</text>
+<text x="139" y="340" fill="#AAB7C8" font-family="DejaVu Sans, Arial, sans-serif" font-size="23">FULL-STACK ENGINEERING   ·   AI APPLICATIONS   ·   COMPUTER VISION</text>
+<g transform="translate(1117,55)">
+ <rect x="0" y="0" width="405" height="336" rx="24" fill="#151A2D" stroke="#515C89" stroke-opacity=".6" stroke-width="2"/>
+ <rect x="23" y="25" width="359" height="287" rx="16" fill="#0D1117" stroke="#26314F"/>
+ <circle cx="52" cy="48" r="5" fill="#00D9FF"/><circle cx="72" cy="48" r="5" fill="#8B5CF6"/><circle cx="92" cy="48" r="5" fill="#73809A"/>
+ <path d="M39 73h330" stroke="#29334D"/>
+ <text x="54" y="125" fill="#8B5CF6" font-family="DejaVu Sans Mono, monospace" font-size="23" font-weight="600">const profile = {</text>
+ <text x="80" y="170" fill="#F8FAFC" font-family="DejaVu Sans Mono, monospace" font-size="22">focus: <tspan fill="#00D9FF">'build'</tspan>,</text>
+ <text x="80" y="215" fill="#F8FAFC" font-family="DejaVu Sans Mono, monospace" font-size="22">learn: <tspan fill="#00D9FF">'always'</tspan>,</text>
+ <text x="80" y="260" fill="#F8FAFC" font-family="DejaVu Sans Mono, monospace" font-size="22">ship: <tspan fill="#00D9FF">'carefully'</tspan></text>
+ <text x="54" y="295" fill="#8B5CF6" font-family="DejaVu Sans Mono, monospace" font-size="23">};</text>
+</g>
+<path d="M980 30l53 53v100l-53 53" stroke="#00D9FF" stroke-opacity=".35" stroke-width="3" fill="none"/>
+<path d="M1058 320l-29 29h-86" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="3" fill="none"/>
+<circle cx="980" cy="30" r="5" fill="#00D9FF"/><circle cx="943" cy="349" r="5" fill="#8B5CF6"/>
+</svg>
