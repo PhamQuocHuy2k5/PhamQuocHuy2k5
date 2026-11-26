@@ -159,3 +159,36 @@ This achievement represents an important milestone in my journey toward software
 - [National Youth AI Innovation Competition](https://ai.tainangviet.vn/)
 
 <!-- AWARD-AI-2026-END -->
+
+<!-- GEMINI-CERTIFICATE-START -->
+
+---
+
+## 📜 Professional Certifications
+
+### Google Gemini Certified Student — University
+
+![Google](https://img.shields.io/badge/Google-for_Education-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Certified-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-2026-blue?style=for-the-badge)
+
+| Credential Information | Details |
+|---|---|
+| Certificate | Gemini Certified Student - University |
+| Issued by | Google for Education |
+| Recipient | Phạm Quốc Huy |
+| Issued date | February 13, 2026 |
+| Valid through | February 13, 2029 |
+| Field | Artificial Intelligence |
+
+Earned the Gemini Certified Student (University) credential from Google for Education, demonstrating foundational knowledge, skills, and competencies in using Google's artificial intelligence tools.
+
+<p align="center">
+    <img src="assets/certificates/2026_Google_Gemini_Certified_Student.png" width="650" alt="Google Gemini Certified Student Certificate">
+</p>
+
+<p align="center">
+    <em>Google for Education - Gemini Certified Student 2026</em>
+</p>
+
+<!-- GEMINI-CERTIFICATE-END -->
