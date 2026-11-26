@@ -184,7 +184,7 @@ This achievement represents an important milestone in my journey toward software
 Earned the Gemini Certified Student (University) credential from Google for Education, demonstrating foundational knowledge, skills, and competencies in using Google's artificial intelligence tools.
 
 <p align="center">
-    <img src="assets/certificates/2026_Google_Gemini_Certified_Student.png" width="650" alt="Google Gemini Certified Student Certificate">
+    <img src="assets/certificates/Google_Gemini_University_2026_Verified.png" width="650" alt="Google Gemini Certified Student Certificate">
 </p>
 
 <p align="center">
