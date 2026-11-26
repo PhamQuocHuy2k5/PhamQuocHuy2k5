@@ -1,280 +1,208 @@
-<!-- PROFESSIONAL-SKILLS-START -->
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Developer Portfolio">
+</p>
 
-# Software Developer & AI Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/Software-Developer-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-0891B2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/University-NCTU-DC2626?style=for-the-badge">
+</p>
 
-### About Me
+## About Me
 
-I am an Information Technology student at Nam Can Tho University, passionate about software engineering, artificial intelligence, full-stack development, database management, and digital innovation.
+I am an Information Technology student at Nam Can Tho University with a strong interest in software engineering, artificial intelligence, full-stack development, database systems and intelligent applications.
 
-I work with multiple programming languages and technologies to develop desktop applications, web platforms, intelligent systems, computer vision applications, and data-driven software solutions.
+I work with multiple programming languages and technologies to develop practical software solutions across desktop applications, web platforms, computer vision and AI-powered systems.
 
-My goal is to transform technical knowledge into practical, reliable, and innovative software products.
+My development philosophy focuses on functionality, reliability, data integrity, maintainability, security and user experience.
 
 ---
 
-## Technical Skills
+## Honors & Achievements
 
-### Programming Languages
+### Second Prize - National Youth AI Innovation Competition 2026
+
+**Southern Regional Round | Category C**
+
+- Team: MEDAI_DNC
+- University: Nam Can Tho University
+- Award date: October 22, 2026
+- Field: Artificial Intelligence
+
+Awarded Second Prize as a member of MEDAI_DNC, reflecting teamwork, technological innovation and the practical application of artificial intelligence.
+
+<p align="center"><img src="assets/awards/2026_AI_Second_Prize.png" width="380" alt="AI Competition Award"></p>
+
+---
+
+## Professional Certifications
+
+### Gemini Certified Student - University
+
+**Google for Education**
+
+- Issued: February 13, 2026
+- Valid through: February 13, 2029
+- Field: Artificial Intelligence
+
+Demonstrated foundational knowledge, skills and competencies in using Google AI.
+
+<p align="center"><img src="assets/certificates/Google_Gemini_University_2026_Verified.png" width="600" alt="Gemini Certificate"></p>
+
+---
+
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js" />
 </p>
 
-### Web Development
+| Language | Application |
+|---|---|
+| Python | AI, Computer Vision, Automation |
+| Java | Desktop Applications, OOP, Enterprise Systems |
+| C# | Software Development, E-commerce |
+| JavaScript | Web Applications, Interactive Systems |
+| SQL | Database Design, Queries, Data Analytics |
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
-</p>
+## Technology Stack
 
-### Artificial Intelligence & Computer Vision
+### Web & Application Development
 
-![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-111827?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv)
-![LLM](https://img.shields.io/badge/LLM-Artificial_Intelligence-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Knowledge_Retrieval-purple?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,dotnet" />
 
-### Database Management
+### Artificial Intelligence
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Local AI with Ollama
+- YOLO Object Detection
+- Optical Character Recognition
+- Computer Vision
+
+### Database & Data Analytics
+
 <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
 
 ![SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server-CC2927?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Database_Development-00758F?style=for-the-badge)
-
-### Desktop Application Development
-
-![Java](https://img.shields.io/badge/Java-Desktop_Development-orange?style=for-the-badge)
-![Swing](https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge)
-![FlatLaf](https://img.shields.io/badge/FlatLaf-Modern_UI-2563EB?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Data_Analytics-217346?style=for-the-badge)
 
 ### Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,maven,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,maven" />
 
-### Software Engineering
-
-- Object-Oriented Programming (OOP)
-- System Analysis and Design
-- UML Modeling
-- Database Design
-- Software Testing and Debugging
-- UI/UX Development
-- Application Performance Optimization
-- Business Intelligence and Data Analytics
+- NetBeans
+- StarUML
+- Java Swing
+- FlatLaf
+- Database Management Tools
 
 ---
 
 ## Featured Projects
 
-| Project | Technologies & Focus |
-|---|---|
-| HEALORA AI | Healthcare AI, LLM, RAG, MongoDB |
-| MEDAI_DNC | Artificial Intelligence and Healthcare Innovation |
-| TECHSTORE MANAGER | Java, SQL Server, Inventory Management, Business Intelligence |
-| SMART TECH STORE | C#, E-commerce, Artificial Intelligence |
-| YOLO TRAFFIC MANAGER | Python, YOLO, OpenCV, OCR, Computer Vision |
-| LIBRARY MANAGEMENT | UML, System Analysis and Design |
-| LEAFLET INTERACTIVE MAP | JavaScript, Leaflet.js, Web GIS |
+### HEALORA AI
 
-> Selected project source codes are maintained in private repositories to protect intellectual property.
+Intelligent healthcare information assistant.
 
-<!-- PROFESSIONAL-SKILLS-END -->
+**Technologies:** JavaScript, MongoDB, Ollama, LLM, RAG.
 
-<!-- Phạm Quốc Huy • GitHub Profile • Premium Dark Tech • V4 -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Phạm Quốc Huy — Software Developer and AI Enthusiast; Premium Dark Tech profile banner" width="100%" />
-</p>
+Focus areas include local AI integration, Vietnamese health information, knowledge retrieval and responsible AI assistance.
 
-<p align="center">
-  <strong>Information Technology Student · Nam Can Tho University</strong><br />
-  Full-stack development · Practical AI · Computer vision
-</p>
+### MEDAI_DNC
 
-<p align="center">
-  <a href="https://github.com/PhamQuocHuy2k5">GitHub Profile</a> ·
-  <a href="https://github.com/PhamQuocHuy2k5/Portfolio">Portfolio Source</a> ·
-  <a href="https://github.com/PhamQuocHuy2k5?tab=repositories">Repositories</a>
-</p>
+Healthcare AI innovation competition project.
 
----
+**Achievement:** Second Prize, Southern Regional Round, Category C, National Youth AI Innovation Competition 2026.
 
-## About me
+### TECHSTORE MANAGER
 
-I'm **Phạm Quốc Huy**, an Information Technology student at **Nam Can Tho University**, interested in building dependable web applications and applying AI to real-world problems.
+Inventory management and business intelligence desktop application.
 
-My current work spans **React-based frontends, ASP.NET Core APIs, SQL Server**, and **Python services**. I care about clear user experiences, maintainable architecture, thoughtful testing, and communicating what a project *actually does* rather than overstating its readiness.
+**Technologies:** Java 21, Swing, FlatLaf, SQL Server, JDBC, Excel.
 
-> **Build with purpose. Validate with evidence. Keep learning.**
+Focus areas include inventory operations, sales analytics, data visualization and business reporting.
 
-## Technical toolkit
+### SMART TECH STORE
 
-These are technologies I've used in coursework, experiments, or ongoing development — **not a claim of mastery**.
+AI-powered technology e-commerce academic project.
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | `C#` · `Python` · `JavaScript` · `TypeScript` · `Java` · `SQL` |
-| **Frontend** | `React` · `Vite` · `HTML5` · `CSS3` · `Tailwind CSS` |
-| **Backend** | `ASP.NET Core` · `Entity Framework Core` · `FastAPI` |
-| **Data** | `SQL Server` · `MongoDB` *(project exploration)* |
-| **AI & Computer Vision** | `YOLO` · `OpenCV` · `Ollama` · `local LLM experimentation` |
-| **Engineering & QA** | `Git` · `GitHub` · `VS Code` · `PowerShell` · `Playwright` · `Vitest` |
+**Technologies:** C#, Web Development, Artificial Intelligence.
 
-## Selected projects
+### YOLO TRAFFIC MANAGER
 
-### SMART TECH STORE <sub>· Public source · In development</sub>
+Computer vision application for traffic detection, tracking and statistics.
 
-**AI-assisted technology e-commerce and inventory intelligence.** A coursework project integrating a React storefront with an ASP.NET Core API, SQL Server, and Python services for forecasting and related analysis. Some planned AI capabilities and end-to-end integrations remain in progress, as documented in the repository.
+**Technologies:** Python, YOLO, OpenCV, OCR, SQL Server.
 
-**Stack:** `React` `TypeScript` `ASP.NET Core` `SQL Server` `FastAPI`  
-**Explore:** [Repository & engineering status](https://github.com/PhamQuocHuy2k5/smart-tech-store)
+### LIBRARY MANAGEMENT SYSTEM
 
-### HEALORA AI <sub>· In development · No public project repository verified</sub>
+System analysis and software design project.
 
-**Local-first health information assistant.** Exploring Vietnamese conversational interfaces, Ollama-hosted models, retrieval-based responses, and safety-oriented AI interactions. An educational prototype, **not a medical professional or diagnostic service**.
+**Focus:** UML, Use Case, Class, Activity, Sequence and State Diagrams.
 
-**Focus:** `Ollama` `Python` `RAG research` `AI safety`  
-**Status:** Project work in progress; no public demo claimed.
+### LEAFLET INTERACTIVE MAP
 
-### YOLO TRAFFIC MANAGER <sub>· Academic project · Public repository not verified</sub>
+Interactive geographic visualization application.
 
-**Computer-vision traffic analysis.** Developing vehicle and road-user detection, object tracking, and license-plate processing using Python-based image and video workflows. Accuracy and supported scenarios depend on evaluated models and input quality.
-
-**Focus:** `Python` `YOLO` `OpenCV` `Object tracking` `OCR`  
-**Status:** Academic project; no verified public demo linked.
-
-### DTDM LEAFLET INTERACTIVE MAP <sub>· Public source</sub>
-
-**Interactive web mapping coursework.** Browser-based maps using Leaflet, with Esri/OpenStreetMap basemap options and map interaction features described in its source repository.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Leaflet`  
-**Explore:** [Source repository](https://github.com/PhamQuocHuy2k5/DTDM-Leaflet-Interactive-Map)
-
-### PERSONAL PORTFOLIO <sub>· Public source</sub>
-
-**Personal project showcase.** A public repository containing frontend portfolio materials. A verified production deployment is not claimed here.
-
-**Stack:** `HTML` `CSS` `JavaScript`  
-**Explore:** [Portfolio repository](https://github.com/PhamQuocHuy2k5/Portfolio)
-
-## Recognition & involvement
-
-- **Second Prize — MED AI 2026** *(award reported by the profile owner).* 
-- University coursework focused on software development and applied AI.
-- Participation in student activities and collaborative project work.
-
-## Current focus
-
-`Full-stack engineering` · `Software architecture` · `Applied AI` · `Computer vision` · `Local LLMs` · `Testing & documentation`
-
-I'm especially interested in building end-to-end applications where the interface, API, data model, and AI components work together reliably.
-
-## GitHub activity
-
-GitHub provides up-to-date activity and language information directly on the account pages:
-
-- [Contribution activity and repositories](https://github.com/PhamQuocHuy2k5)
-- [Public repositories and their language breakdowns](https://github.com/PhamQuocHuy2k5?tab=repositories)
-
-<details>
-<summary><strong>Optional live statistics — provided by third-party services</strong></summary>
-
-These cards are **external** and may become unavailable independently of this profile. The native GitHub activity links above remain accessible even when a card does not render.
-
-<p align="center">
-  <img alt="GitHub activity statistics from a third-party service" src="https://github-readme-stats.vercel.app/api?username=PhamQuocHuy2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" height="155" />
-  <img alt="Language distribution from public GitHub repositories (not a skills ranking)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuocHuy2k5&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" height="155" />
-</p>
-
-<p align="center"><img alt="Profile view counter provided by a third-party service" src="https://komarev.com/ghpvc/?username=PhamQuocHuy2k5&amp;color=00D9FF&amp;style=flat-square" /></p>
-
-</details>
-
-## Connect
-
-- **GitHub:** [@PhamQuocHuy2k5](https://github.com/PhamQuocHuy2k5)
-- **Projects:** [View public repositories](https://github.com/PhamQuocHuy2k5?tab=repositories)
-- **Portfolio source:** [Repository](https://github.com/PhamQuocHuy2k5/Portfolio)
-
-<p align="center">
-  <sub>LEARN · BUILD · VERIFY · IMPROVE</sub>
-</p>
-
-<!-- AWARD-AI-2026-START -->
+**Technologies:** JavaScript, HTML, CSS, Leaflet.js, Esri Basemaps.
 
 ---
 
-## 🏆 Honors & Awards
+## Software Engineering Competencies
 
-### 🥈 Second Prize — National Youth AI Innovation Competition 2026
-
-![Award](https://img.shields.io/badge/Award-Second_Prize-silver?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-2026-blue?style=for-the-badge)
-![University](https://img.shields.io/badge/University-NCTU-red?style=for-the-badge)
-
-**Southern Regional Round — Category C**
-
-| Information | Details |
+| Competency | Focus |
 |---|---|
-| Participant | Phạm Quốc Huy |
-| Team | MEDAI_DNC |
-| University | Nam Can Tho University |
-| Major | Information Technology |
-| Achievement | Second Prize |
-| Category | Artificial Intelligence |
-| Award Date | October 22, 2026 |
-
-Awarded Second Prize as a member of MEDAI_DNC at the Southern Regional Round of the 2026 National Youth AI Innovation Competition.
-
-This achievement represents an important milestone in my journey toward software engineering, artificial intelligence, technological innovation, and practical problem-solving.
-
-<p align="center">
-  <img src="assets/awards/2026_AI_Second_Prize.png" width="450" alt="Second Prize - AI Innovation Competition 2026">
-</p>
-
-<p align="center">
-  <em>Certificate of Achievement — National Youth AI Innovation Competition 2026</em>
-</p>
-
-### Official Recognition
-
-- [Nam Can Tho University — Official News](https://nctu.edu.vn/news/category/all)
-- [National Youth AI Innovation Competition](https://ai.tainangviet.vn/)
-
-<!-- AWARD-AI-2026-END -->
-
-<!-- GEMINI-CERTIFICATE-START -->
+| Software Development | Multi-language application development |
+| System Architecture | Modular design and separation of responsibilities |
+| Object-Oriented Programming | Classes, encapsulation and abstraction |
+| Database Engineering | Relational databases and data integrity |
+| Artificial Intelligence | LLM, RAG and Computer Vision |
+| Software Quality | Testing, debugging and optimization |
+| UI/UX | Modern and user-friendly applications |
+| Data Analytics | Dashboards, reporting and visualization |
+| Version Control | Git and GitHub |
+| Technical Documentation | Reports, UML diagrams and presentations |
 
 ---
 
-## 📜 Professional Certifications
+## Achievement Timeline
 
-### Google Gemini Certified Student — University
-
-![Google](https://img.shields.io/badge/Google-for_Education-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Certified-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-2026-blue?style=for-the-badge)
-
-| Credential Information | Details |
+| Date | Milestone |
 |---|---|
-| Certificate | Gemini Certified Student - University |
-| Issued by | Google for Education |
-| Recipient | Phạm Quốc Huy |
-| Issued date | February 13, 2026 |
-| Valid through | February 13, 2029 |
-| Field | Artificial Intelligence |
+| February 2026 | Google Gemini Certified Student |
+| October 2026 | Second Prize - National Youth AI Innovation Competition, Southern Regional Round |
+| 2026 | Development of academic software and AI projects |
 
-Earned the Gemini Certified Student (University) credential from Google for Education, demonstrating foundational knowledge, skills, and competencies in using Google's artificial intelligence tools.
+## Research & Learning Interests
+
+- Artificial Intelligence and Intelligent Systems
+- Large Language Models and RAG
+- Computer Vision and Deep Learning
+- Software Architecture
+- Full-Stack Development
+- Database Engineering
+- Business Intelligence
+- Responsible AI
+
+## Career Objective
+
+To develop into a skilled software engineer with strong capabilities in artificial intelligence, application development and system design, contributing to practical and reliable technology solutions.
+
+## Portfolio & Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Developer_Profile-181717?style=for-the-badge&logo=github)](https://github.com/PhamQuocHuy2k5)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Showcase-2563EB?style=for-the-badge)](https://github.com/PhamQuocHuy2k5/Portfolio)
+
+---
 
 <p align="center">
-    <img src="assets/certificates/Google_Gemini_University_2026_Verified.png" width="650" alt="Google Gemini Certified Student Certificate">
+  <b>Learn continuously. Build responsibly. Improve through practice.</b>
 </p>
 
 <p align="center">
-    <em>Google for Education - Gemini Certified Student 2026</em>
+  Selected project source code is maintained in private repositories.
 </p>
-
-<!-- GEMINI-CERTIFICATE-END -->
