@@ -1,3 +1,89 @@
+<!-- PROFESSIONAL-SKILLS-START -->
+
+# Software Developer & AI Enthusiast
+
+### About Me
+
+I am an Information Technology student at Nam Can Tho University, passionate about software engineering, artificial intelligence, full-stack development, database management, and digital innovation.
+
+I work with multiple programming languages and technologies to develop desktop applications, web platforms, intelligent systems, computer vision applications, and data-driven software solutions.
+
+My goal is to transform technical knowledge into practical, reliable, and innovative software products.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+### Artificial Intelligence & Computer Vision
+
+![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-111827?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv)
+![LLM](https://img.shields.io/badge/LLM-Artificial_Intelligence-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Knowledge_Retrieval-purple?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-black?style=for-the-badge)
+
+### Database Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+![SQL Server](https://img.shields.io/badge/Microsoft-SQL_Server-CC2927?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database_Development-00758F?style=for-the-badge)
+
+### Desktop Application Development
+
+![Java](https://img.shields.io/badge/Java-Desktop_Development-orange?style=for-the-badge)
+![Swing](https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge)
+![FlatLaf](https://img.shields.io/badge/FlatLaf-Modern_UI-2563EB?style=for-the-badge)
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,maven,postman" />
+</p>
+
+### Software Engineering
+
+- Object-Oriented Programming (OOP)
+- System Analysis and Design
+- UML Modeling
+- Database Design
+- Software Testing and Debugging
+- UI/UX Development
+- Application Performance Optimization
+- Business Intelligence and Data Analytics
+
+---
+
+## Featured Projects
+
+| Project | Technologies & Focus |
+|---|---|
+| HEALORA AI | Healthcare AI, LLM, RAG, MongoDB |
+| MEDAI_DNC | Artificial Intelligence and Healthcare Innovation |
+| TECHSTORE MANAGER | Java, SQL Server, Inventory Management, Business Intelligence |
+| SMART TECH STORE | C#, E-commerce, Artificial Intelligence |
+| YOLO TRAFFIC MANAGER | Python, YOLO, OpenCV, OCR, Computer Vision |
+| LIBRARY MANAGEMENT | UML, System Analysis and Design |
+| LEAFLET INTERACTIVE MAP | JavaScript, Leaflet.js, Web GIS |
+
+> Selected project source codes are maintained in private repositories to protect intellectual property.
+
+<!-- PROFESSIONAL-SKILLS-END -->
+
 <!-- Phạm Quốc Huy • GitHub Profile • Premium Dark Tech • V4 -->
 <p align="center">
   <img src="assets/banner.svg" alt="Phạm Quốc Huy — Software Developer and AI Enthusiast; Premium Dark Tech profile banner" width="100%" />
