@@ -116,3 +116,46 @@ These cards are **external** and may become unavailable independently of this pr
 <p align="center">
   <sub>LEARN · BUILD · VERIFY · IMPROVE</sub>
 </p>
+
+<!-- AWARD-AI-2026-START -->
+
+---
+
+## 🏆 Honors & Awards
+
+### 🥈 Second Prize — National Youth AI Innovation Competition 2026
+
+![Award](https://img.shields.io/badge/Award-Second_Prize-silver?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-2026-blue?style=for-the-badge)
+![University](https://img.shields.io/badge/University-NCTU-red?style=for-the-badge)
+
+**Southern Regional Round — Category C**
+
+| Information | Details |
+|---|---|
+| Participant | Phạm Quốc Huy |
+| Team | MEDAI_DNC |
+| University | Nam Can Tho University |
+| Major | Information Technology |
+| Achievement | Second Prize |
+| Category | Artificial Intelligence |
+| Award Date | October 22, 2026 |
+
+Awarded Second Prize as a member of MEDAI_DNC at the Southern Regional Round of the 2026 National Youth AI Innovation Competition.
+
+This achievement represents an important milestone in my journey toward software engineering, artificial intelligence, technological innovation, and practical problem-solving.
+
+<p align="center">
+  <img src="assets/awards/2026_AI_Second_Prize.png" width="450" alt="Second Prize - AI Innovation Competition 2026">
+</p>
+
+<p align="center">
+  <em>Certificate of Achievement — National Youth AI Innovation Competition 2026</em>
+</p>
+
+### Official Recognition
+
+- [Nam Can Tho University — Official News](https://nctu.edu.vn/news/category/all)
+- [National Youth AI Innovation Competition](https://ai.tainangviet.vn/)
+
+<!-- AWARD-AI-2026-END -->
